@@ -1,0 +1,53 @@
+
+    @import url('https://fonts.googleapis.com/css?family=Bungee');
+    @import url('https://fonts.googleapis.com/css?family=Source+Sans+Pro');
+        * {
+            /* border:1px solid red; */
+            margin:0;
+            padding: 0;
+            font-family: 'Source Sans Pro', sans-serif;
+        
+        }
+
+     html{
+         background:url("../images/gaming-pattern.png");
+     }
+
+        .title {
+            font-family: 'Bungee', cursive;
+        }
+        .container {
+            display:block;
+            margin: 0 auto;
+            width:80%;
+            
+        }
+
+        .subTitle {
+            margin:1rem 0;
+           
+        }
+
+        .title {
+            font-size: 2rem;
+            margin: 5rem 0;
+            text-align: center;
+        }
+        
+        .javaResourcesTitle a{
+            color:black;
+            text-decoration:none;
+        }
+
+        .javaResources{
+            margin-top:14px;
+        }
+
+        .frontendResources a{
+            color:black;
+            text-decoration:none;
+        }
+
+        .frontendResources{
+            margin-top:1rem;
+        }
